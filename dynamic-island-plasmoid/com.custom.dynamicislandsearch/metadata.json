@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Custom"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Morphing Dynamic Island search bar for Firefox with multi-engine switching and Live Activity feedback",
+        "Icon": "firefox",
+        "Id": "com.custom.dynamicislandsearch",
+        "Name": "Firefox Dynamic Island",
+        "Version": "1.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
